@@ -1,0 +1,25 @@
+{
+  "name": "chess-game",
+  "version": "1.0.0",
+  "description": "It is a full stack chess game portfolio project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zvolcsey/chess-game.git"
+  },
+  "keywords": [
+    "chess-game",
+    "chess",
+    "game",
+    "full-stack"
+  ],
+  "author": "Zoltán Völcsey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zvolcsey/chess-game/issues"
+  },
+  "homepage": "https://github.com/zvolcsey/chess-game#readme"
+}
