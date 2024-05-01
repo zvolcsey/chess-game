@@ -1,0 +1,13 @@
+.container {
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+
+.dark {
+  color: #000;
+}
+
+.light {
+  color: #fff;
+  text-shadow: #000 1px 0 10px;
+}
