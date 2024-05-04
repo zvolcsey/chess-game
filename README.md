@@ -30,7 +30,11 @@ Client
 
 Server
 
-TODO
+```sh
+  cd server
+  npm ci
+  npm run dev
+```
 
 ## Ports
 
